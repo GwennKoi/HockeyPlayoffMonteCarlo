@@ -1,0 +1,111 @@
+{
+  "west": {
+    "central": {
+      "1": {
+        "home": {
+          "name": "NSH",
+          "points": 100,
+          "strength": 558
+        },
+        "away": {
+          "name": "DAL",
+          "points": 93,
+          "strength": 526
+        }
+      },
+      "2": {
+        "home": {
+          "name": "WPG",
+          "points": 99,
+          "strength": 560
+        },
+        "away": {
+          "name": "STL",
+          "points": 99,
+          "strength": 557
+        }
+      }
+
+    },
+    "pacific": {
+      "1": {
+        "home": {
+          "name": "CGY",
+          "points": 107,
+          "strength": 636
+        },
+        "away": {
+          "name": "COL",
+          "points": 90,
+          "strength": 481
+        }
+      },
+      "2": {
+        "home": {
+          "name": "SJS",
+          "points": 101,
+          "strength": 566
+        },
+        "away": {
+          "name": "VGK",
+          "points": 93,
+          "strength": 543
+        }
+      }
+    }
+  },
+  "east": {
+    "atlantic": {
+      "1": {
+        "home": {
+          "name": "TBL",
+          "points": 128,
+          "strength": 690
+        },
+        "away": {
+          "name": "CBJ",
+          "points": 98,
+          "strength": 557
+        }
+      },
+      "2": {
+        "home": {
+          "name": "BOS",
+          "points": 107,
+          "strength": 598
+        },
+        "away": {
+          "name": "TOR",
+          "points": 100,
+          "strength": 578
+        }
+      }
+    },
+    "metropolitan": {
+      "1": {
+        "home": {
+          "name": "WSH",
+          "points": 104,
+          "strength": 557
+        },
+        "away": {
+          "name": "CAR",
+          "points": 99,
+          "strength": 552
+        }
+      },
+      "2": {
+        "home": {
+          "name": "NYI",
+          "points": 103,
+          "strength": 578
+        },
+        "away": {
+          "name": "PIT",
+          "points": 100,
+          "strength": 570
+        }
+      }
+    }
+  }
+}
