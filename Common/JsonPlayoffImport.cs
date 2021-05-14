@@ -8,27 +8,27 @@ namespace HockeyPlayoffs.Common
 
     public class JsonPlayoffImport
     {
-        [JsonProperty(PropertyName = "east")]
+        [JsonProperty(PropertyName = "a")]
         public JsonEasternConference EasternConference { get; set; }
-        [JsonProperty(PropertyName = "west")]
+        [JsonProperty(PropertyName = "b")]
         public JsonWesternConference WesternConference { get; set; }
     }
 
     public class JsonEasternConference
     {
-        [JsonProperty(PropertyName = "atlantic")]
+        [JsonProperty(PropertyName = "east")]
         public JsonDivision Atlantic { get; set; }
 
-        [JsonProperty(PropertyName = "metropolitan")]
+        [JsonProperty(PropertyName = "central")]
         public JsonDivision Metro { get; set; }
     }
 
     public class JsonWesternConference
     {
-        [JsonProperty(PropertyName = "central")]
+        [JsonProperty(PropertyName = "west")]
         public JsonDivision Central { get; set; }
 
-        [JsonProperty(PropertyName = "pacific")]
+        [JsonProperty(PropertyName = "north")]
         public JsonDivision Pacific { get; set; }
     }
 
@@ -43,7 +43,9 @@ namespace HockeyPlayoffs.Common
 
     public class JsonMatchup
     {
+        [JsonProperty(PropertyName = "home")]
         public Team Home { get; set; }
+        [JsonProperty(PropertyName = "away")]
         public Team Away { get; set; }
     }
 }

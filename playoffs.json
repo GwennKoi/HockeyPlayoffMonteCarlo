@@ -1,109 +1,109 @@
 {
-  "west": {
-    "central": {
+  "a": {
+    "east": {
       "1": {
         "home": {
-          "name": "NSH",
-          "points": 100,
-          "strength": 558
+          "name": "PIT",
+          "points": 77,
+          "strength": 617
         },
         "away": {
-          "name": "DAL",
-          "points": 93,
-          "strength": 526
+          "name": "NYI",
+          "points": 71,
+          "strength": 596
         }
       },
       "2": {
         "home": {
-          "name": "WPG",
-          "points": 99,
-          "strength": 560
+          "name": "WSH",
+          "points": 76,
+          "strength": 585
         },
         "away": {
-          "name": "STL",
-          "points": 99,
-          "strength": 557
+          "name": "BOS",
+          "points": 73,
+          "strength": 602
         }
       }
 
     },
-    "pacific": {
+    "central": {
       "1": {
         "home": {
-          "name": "CGY",
-          "points": 107,
-          "strength": 636
+          "name": "CAR",
+          "points": 80,
+          "strength": 633
         },
         "away": {
-          "name": "COL",
-          "points": 90,
-          "strength": 481
+          "name": "NSH",
+          "points": 64,
+          "strength": 496
         }
       },
       "2": {
         "home": {
-          "name": "SJS",
-          "points": 101,
-          "strength": 566
+          "name": "FLA",
+          "points": 79,
+          "strength": 616
         },
         "away": {
-          "name": "VGK",
-          "points": 93,
-          "strength": 543
+          "name": "TBL",
+          "points": 75,
+          "strength": 612
         }
       }
     }
   },
-  "east": {
-    "atlantic": {
+  "b": {
+    "west": {
       "1": {
         "home": {
-          "name": "TBL",
-          "points": 128,
-          "strength": 690
+          "name": "COL",
+          "points": 79,
+          "strength": 687
         },
         "away": {
-          "name": "CBJ",
-          "points": 98,
-          "strength": 557
+          "name": "STL",
+          "points": 61,
+          "strength": 494
         }
       },
       "2": {
         "home": {
-          "name": "BOS",
-          "points": 107,
-          "strength": 598
+          "name": "VGK",
+          "points": 82,
+          "strength": 709
         },
         "away": {
-          "name": "TOR",
-          "points": 100,
-          "strength": 578
+          "name": "MIN",
+          "points": 75,
+          "strength": 582
         }
       }
     },
-    "metropolitan": {
+    "north": {
       "1": {
         "home": {
-          "name": "WSH",
-          "points": 104,
-          "strength": 557
+          "name": "TOR",
+          "points": 77,
+          "strength": 627
         },
         "away": {
-          "name": "CAR",
-          "points": 99,
-          "strength": 552
+          "name": "MTL",
+          "points": 59,
+          "strength": 484
         }
       },
       "2": {
         "home": {
-          "name": "NYI",
-          "points": 103,
-          "strength": 578
+          "name": "EDM",
+          "points": 72,
+          "strength": 603
         },
         "away": {
-          "name": "PIT",
-          "points": 100,
-          "strength": 570
+          "name": "WPG",
+          "points": 61,
+          "strength": 556
         }
       }
     }
